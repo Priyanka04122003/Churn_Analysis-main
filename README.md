@@ -46,4 +46,4 @@ Open churn_analysis.ipynb in Jupyter Notebook and run the cells.
 
 Priyanka Bhagat
 
-B.Tech Data Science Student 
+B.Tech in computer science and engineering
