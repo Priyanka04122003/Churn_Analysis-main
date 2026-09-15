@@ -38,12 +38,12 @@ Churn_Analysis/
 
 Clone the repository:
 
-git clone https://github.com/ankitapatra330-rgb/Churn_Analysis.git
+git clone https://github.com/Priyanka04122003/Churn_Analysis-main.git
 
 Open churn_analysis.ipynb in Jupyter Notebook and run the cells.
 
 <h2>👩‍💻 Author</h2>
 
-Ankita Patra
+Priyanka Bhagat
 
 B.Tech Data Science Student 
